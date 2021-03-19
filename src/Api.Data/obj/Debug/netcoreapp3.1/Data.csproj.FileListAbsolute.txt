@@ -1,0 +1,15 @@
+C:\FONTES\_Udemy\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\FONTES\_Udemy\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\FONTES\_Udemy\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\FONTES\_Udemy\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\FONTES\_Udemy\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\FONTES\_Udemy\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\FONTES\_Udemy\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\FONTES\_Udemy\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\FONTES\_Udemy\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\FONTES\_Udemy\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\FONTES\_Udemy\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\FONTES\_Udemy\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+C:\FONTES\_Udemy\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.dll
+C:\FONTES\_Udemy\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\FONTES\_Udemy\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete

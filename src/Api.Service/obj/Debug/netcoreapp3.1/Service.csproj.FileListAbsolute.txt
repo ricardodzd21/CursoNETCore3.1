@@ -7,10 +7,8 @@ C:\FONTES\_Udemy\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Servi
 C:\FONTES\_Udemy\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
 C:\FONTES\_Udemy\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb
 C:\FONTES\_Udemy\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
-C:\FONTES\_Udemy\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp3.1\CrossCutting.dll
 C:\FONTES\_Udemy\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp3.1\Data.dll
 C:\FONTES\_Udemy\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.dll
 C:\FONTES\_Udemy\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.pdb
 C:\FONTES\_Udemy\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp3.1\Data.pdb
-C:\FONTES\_Udemy\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp3.1\CrossCutting.pdb
 C:\FONTES\_Udemy\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete

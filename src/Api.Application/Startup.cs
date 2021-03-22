@@ -41,7 +41,7 @@ namespace application
           TermsOfService = new Uri("http://www.inhaquites.com.br"),
           Contact = new OpenApiContact
           {
-            Name = "Rodrigo",
+            Name = "Rodrigo Inhaquites",
             Email = "r.inhaquites@gmail.com",
             Url = new Uri("http://www.inhaquites.com.br")
           },

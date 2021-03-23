@@ -70,3 +70,10 @@ C:\FONTES\_Udemy\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\S
 C:\FONTES\_Udemy\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\FONTES\_Udemy\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\FONTES\_Udemy\curso_api_netcore\src\Api.Application\obj\Debug\netcoreapp3.1\application.MvcApplicationPartsAssemblyInfo.cs
+C:\FONTES\_Udemy\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\FONTES\_Udemy\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\FONTES\_Udemy\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\FONTES\_Udemy\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\FONTES\_Udemy\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\FONTES\_Udemy\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\FONTES\_Udemy\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll

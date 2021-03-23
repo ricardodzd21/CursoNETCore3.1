@@ -326,7 +326,7 @@ ASALocalRun/
 healthchecksdb
 
 
-# pastas bin e obj dos projetos
+# Pastas bin e obj dos projetos
 src/Api.Application/bin
 src/Api.Application/obj
 src/Api.CrossCutting/bin

@@ -324,3 +324,16 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+
+
+# pastas bin e obj dos projetos
+src/Api.Application/bin
+src/Api.Application/obj
+src/Api.CrossCutting/bin
+src/Api.CrossCutting/obj
+src/Api.Data/bin
+src/Api.Data/obj
+src/Api.Domain/bin
+src/Api.Domain/obj
+src/Api.Service/bin
+src/Api.Service/obj
